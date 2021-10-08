@@ -12,6 +12,14 @@ public class Customer {
     public String toString() {
         return super.toString();
     }
+
+
+
+    public String createSignUp(){
+        return "I created SignUp";
+    }
+
+
 }
 
 
