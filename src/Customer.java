@@ -22,6 +22,9 @@ public class Customer {
     public String createdCreateBackendSignUp(){
         return "Finished SignUp BackEnd";
     }
+    public String createdCreateFrontEndSignUp(){
+        return "Finished SignUp FrontEnd";
+    }
 
 
 }
